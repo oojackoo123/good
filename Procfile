@@ -1,1 +1,1 @@
-web: gunicorn app:app
+clock: python scheduleT.py
